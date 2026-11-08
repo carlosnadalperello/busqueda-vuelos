@@ -1,8 +1,25 @@
 {
- "avisados": {},
- "cursor": 21,
+ "avisados": {
+  "Vietnam|2027-09-05|2027-09-20|PMI→HAN, HAN→PMI|Austrian / Qatar Airways / Iberia": {
+   "fecha": "2026-11-08 13:12",
+   "precio": 1518.5
+  },
+  "Vietnam|2027-09-06|2027-09-18|PMI→HAN, HAN→PMI|Air Europa / Qatar Airways / Iberia": {
+   "fecha": "2026-11-08 13:12",
+   "precio": 895.0
+  },
+  "Vietnam|2027-09-06|2027-09-19|PMI→HAN, HAN→PMI|Air Europa / Qatar Airways / SWISS": {
+   "fecha": "2026-11-08 13:12",
+   "precio": 984.5
+  },
+  "Vietnam|2027-09-06|2027-09-20|PMI→HAN, HAN→PMI|Vueling / Qatar Airways / Iberia": {
+   "fecha": "2026-11-08 13:12",
+   "precio": 846.0
+  }
+ },
+ "cursor": 25,
  "error_avisado": null,
  "uso": {
-  "2026-11": 21
+  "2026-11": 29
  }
 }
