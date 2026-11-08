@@ -1,4 +1,4 @@
 nombre;activa;origen;destino;ida_desde;ida_hasta;vuelta_desde;vuelta_hasta;noches_min;noches_max;solo_directo;precio_max;pasajeros;notas
 Rumanía Semana Santa 2027;Si;PMI;OTP,CLJ,SBZ,GHV,TGM,TSR,IAS;22/03/2027;27/03/2027;28/03/2027;02/04/2027;5;6;Si;2000;2;Roadtrip Cárpatos. Sale del primer resultado directo más barato a cualquiera de esos aeropuertos
 Riga;Si;PMI;RIX;22/03/2027;27/03/2027;28/03/2027;02/04/2027;2;3;Si;2000;2;Riga
-Vietnam;Si;PMI;HAN;01/12/2027;10/12/2027;18/12/2027;23/12/2027;12;15;No;5000;2;Vietnam
+Vietnam;Si;PMI;HAN;01/09/2027;10/09/2027;18/09/2027;23/09/2027;12;15;No;5000;2;Vietnam
